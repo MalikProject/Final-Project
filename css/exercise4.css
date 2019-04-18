@@ -1,0 +1,36 @@
+body {
+    margin-top: 20px;
+    background-color: #e2e2e2;
+}
+
+.bg-dark {
+    background-color: #3b5998;
+}   
+
+.judul{
+    padding: 25px;
+}
+
+h2, h3 {
+    text-align: center;
+}
+
+.card-deck {
+    margin-top: 10px;
+}
+
+.card-footer {
+    text-align: center;
+}
+
+.form {
+    text-align: right;
+}
+
+.isi_modal {
+  text-align: left;
+}
+
+.contact {
+    margin-top: 25px;
+}
